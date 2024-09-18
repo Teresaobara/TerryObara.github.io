@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm Teresa, a passionate cloud solutions architect
 ## 📜 Certifications
 
 - **AWS Cloud Solutions Architect Professional**
+- **Google Data Analytics Professional Certificate**
+- ** create ML models using Azure**
 - **Microsoft Data Engineering Associate Professional**
 - **OCI Generative AI Professional** (In progress)
 - ** Basic Cisco Networking & Linux Cloud & DevOps**
@@ -41,6 +43,19 @@ Welcome to my GitHub profile! I'm Teresa, a passionate cloud solutions architect
 
 ### 3. **Customer Research and Analysis – Novartis Pharma**
 - Analyzed data sets from both on-premise and AWS cloud databases to provide actionable insights for business decisions.
+  
+### 4. **KIVA Loans Analysis Project
+View Project here:https://docs.google.com/document/d/1KFWfTTApiUBqDg7q9kg3deGevC7x54CXgYNQ7rwlfDU/edit?usp=sharing
+Conducted a comprehensive data analysis on KIVA loans to understand global lending patterns.
+Used Python and Pandas to clean, preprocess, and analyze the dataset.
+Developed visualizations using Matplotlib and Seaborn to showcase trends in loan distribution, borrower demographics, and loan repayments.
+The project provided insights into how microfinance institutions support entrepreneurs in underdeveloped regions.
+
+### 5. ***Databricks Project: Advanced Data Analysis on Employee Attrition Dataset
+View Project Here:https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1734571970816201/2396855315762920/4443186567053682/latest.html
+Leveraged Apache Spark in Databricks to perform large-scale data analysis on complex datasets.
+Utilized PySpark for data transformation, exploration, and analytics in a distributed computing environment.
+The project demonstrates proficiency in handling big data and executing complex machine learning workflows on Databricks, optimizing performance and scalability.
 
 ---
 
