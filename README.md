@@ -63,14 +63,15 @@ The project demonstrates proficiency in handling big data and executing complex 
 
 - **OCI Generative AI Professional Certificate**
 - Advanced data engineering and machine learning techniques
+- **MSc in Data Science**
 
 ---
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/teresaobaraowino](https://linkedin.com/in/teresaobaraowino)
+- LinkedIn: [ https://www.linkedin.com/in/ teresa-obara-36a703182 ](https:// https://www.linkedin.com/in/ teresa-obara-36a703182)
 - GitHub: [github.com/teresaobaraowino](https://github.com/teresaobaraowino)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: [youremail@example.com](terrytriza80@gmail.com)
 
 Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate on exciting cloud and data engineering projects!
 # TerryObara.github.io
