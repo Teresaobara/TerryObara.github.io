@@ -71,7 +71,7 @@ The project demonstrates proficiency in handling big data and executing complex 
 
 - LinkedIn: [ https://www.linkedin.com/in/ teresa-obara-36a703182 ](https:// https://www.linkedin.com/in/ teresa-obara-36a703182)
 - GitHub: [github.com/teresaobaraowino](https://github.com/teresaobaraowino)
-- Email: [youremail@example.com](terrytriza80@gmail.com)
+- Email: (terrytriza80@gmail.com)
 
 Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate on exciting cloud and data engineering projects!
 # TerryObara.github.io
