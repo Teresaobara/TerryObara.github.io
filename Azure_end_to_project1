@@ -7,7 +7,7 @@
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-54" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=#808080;" parent="1" source="WbLmQY_nLliK70Zq7kBJ-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="530" as="sourcePoint" />
-            <mxPoint x="368" y="670" as="targetPoint" />
+            <mxPoint x="400" y="580" as="targetPoint" />
             <Array as="points">
               <mxPoint x="360" y="570" />
             </Array>
@@ -71,10 +71,10 @@
           <mxGeometry x="450" y="443.5" width="64" height="52" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
-          <mxGeometry x="340" y="684" width="62.8" height="68" as="geometry" />
+          <mxGeometry x="367.2" y="585" width="62.8" height="68" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ic3ZnMTEzMjY3IiBpbmtzY2FwZTp2ZXJzaW9uPSIwLjkyLjMgKDI0MDU1NDYsIDIwMTgtMDMtMTEpIiBzb2RpcG9kaTpkb2NuYW1lPSJwb3dlcl9iaS5zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMzIuMTggMzEuMDkiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyLjE4IDMxLjA5OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+JiN4YTs8c29kaXBvZGk6bmFtZWR2aWV3IGJvcmRlcmNvbG9yPSIjNjY2NjY2IiBib3JkZXJvcGFjaXR5PSIxIiBmaXQtbWFyZ2luLWJvdHRvbT0iMCIgZml0LW1hcmdpbi1sZWZ0PSIwIiBmaXQtbWFyZ2luLXJpZ2h0PSIwIiBmaXQtbWFyZ2luLXRvcD0iMCIgZ3JpZHRvbGVyYW5jZT0iMTAiIGd1aWRldG9sZXJhbmNlPSIxMCIgaWQ9Im5hbWVkdmlldzExMzI2OSIgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0ic3ZnMTEzMjY3IiBpbmtzY2FwZTpjeD0iMjEuNzA0MTE1IiBpbmtzY2FwZTpjeT0iMjAuOTcwNjQ4IiBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMCIgaW5rc2NhcGU6cGFnZXNoYWRvdz0iMiIgaW5rc2NhcGU6d2luZG93LWhlaWdodD0iMTAxNyIgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMSIgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxOTIwIiBpbmtzY2FwZTp3aW5kb3cteD0iLTgiIGlua3NjYXBlOndpbmRvdy15PSItOCIgaW5rc2NhcGU6em9vbT0iMjEuMTcxMTQ0IiBvYmplY3R0b2xlcmFuY2U9IjEwIiBwYWdlY29sb3I9IiNmZmZmZmYiIHNob3dncmlkPSJmYWxzZSI+JiN4YTsJPC9zb2RpcG9kaTpuYW1lZHZpZXc+JiN4YTs8ZyBpZD0iZzExMzI2NSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4zNzQ5Nzg4OSwwLjAwNjQ5Mzc5KSI+JiN4YTsJPHRpdGxlIGlkPSJ0aXRsZTExMzIzNSI+UGFnZS0xPC90aXRsZT4mI3hhOwk8ZyBpZD0iZ3JvdXAyODQtMSI+JiN4YTsJCTx0aXRsZSBpZD0idGl0bGUxMTMyMzciPlBvd2VyQkkgKERlcHJlY2F0ZWQpPC90aXRsZT4mI3hhOwkJPGcgaWQ9InNoYXBlMjg1LTIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTUuMzM5ODIpIj4mI3hhOwkJCTx0aXRsZSBpZD0idGl0bGUxMTMyMzkiPlNoZWV0LjI4NTwvdGl0bGU+JiN4YTsJCQkmI3hhOwkJCQk8cGF0aCBpZD0icGF0aDExMzI0MSIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgc3R5bGU9ImZpbGw6IzNGNTc2NTtzdHJva2U6IzU5NTk1OTtzdHJva2Utd2lkdGg6MC43NTtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6MzsiIGQ9IiAgICAgTTAsMjMuMjRjMC0xLjE0LDEtMi4xNCwyLjEzLTIuMTRjMS4yLDAsMi4xNCwxLDIuMTQsMi4xNHY1LjM0YzAsMS4yLTAuOTQsMi4xMy0yLjE0LDIuMTNDMSwzMC43MSwwLDI5Ljc4LDAsMjguNThWMjMuMjR6Ii8+JiN4YTsJCTwvZz4mI3hhOwkJPGcgaWQ9InNoYXBlMjg2LTQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYuNDAyMjQsLTQuMjcxODUpIj4mI3hhOwkJCTx0aXRsZSBpZD0idGl0bGUxMTMyNDQiPlNoZWV0LjI4NjwvdGl0bGU+JiN4YTsJCQkmI3hhOwkJCQk8cGF0aCBpZD0icGF0aDExMzI0NiIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgc3R5bGU9ImZpbGw6IzNGNTc2NTtzdHJva2U6IzU5NTk1OTtzdHJva2Utd2lkdGg6MC43NTtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6MzsiIGQ9IiAgICAgTTAsMTkuNWMwLTAuODcsMC43My0xLjYsMS42LTEuNmMwLjkzLDAsMS42LDAuNzMsMS42LDEuNnY5LjYxYzAsMC45NC0wLjY3LDEuNi0xLjYsMS42Yy0wLjg3LDAtMS42LTAuNjYtMS42LTEuNlYxOS41eiIvPiYjeGE7CQk8L2c+JiN4YTsJCTxnIGlkPSJzaGFwZTI4Ny02IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMS43Mzc0LC0yLjEzNTkzKSI+JiN4YTsJCQk8dGl0bGUgaWQ9InRpdGxlMTEzMjQ5Ij5TaGVldC4yODc8L3RpdGxlPiYjeGE7CQkJJiN4YTsJCQkJPHBhdGggaWQ9InBhdGgxMTMyNTEiIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiIHN0eWxlPSJmaWxsOiMzRjU3NjU7c3Ryb2tlOiM1OTU5NTk7c3Ryb2tlLXdpZHRoOjAuNzU7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjM7IiBkPSIgICAgIE0wLDE1Ljc2YzAtMS4xMywxLTIuMTMsMi4xMy0yLjEzYzEuMiwwLDIuMTQsMSwyLjE0LDIuMTN2MTIuODJjMCwxLjItMC45NCwyLjEzLTIuMTQsMi4xM0MxLDMwLjcxLDAsMjkuNzgsMCwyOC41OFYxNS43NnoiLz4mI3hhOwkJPC9nPiYjeGE7CQk8ZyBpZD0ic2hhcGUyODgtOCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTguMTM5NykiPiYjeGE7CQkJPHRpdGxlIGlkPSJ0aXRsZTExMzI1NCI+U2hlZXQuMjg4PC90aXRsZT4mI3hhOwkJCSYjeGE7CQkJCTxwYXRoIGlkPSJwYXRoMTEzMjU2IiBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiBzdHlsZT0iZmlsbDojM0Y1NzY1O3N0cm9rZTojNTk1OTU5O3N0cm9rZS13aWR0aDowLjc1O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDozOyIgZD0iICAgICBNMCwxMi4wMmMwLTAuODYsMC43My0xLjYsMS42LTEuNmMwLjkzLDAsMS42LDAuNzQsMS42LDEuNnYxNy4wOWMwLDAuOTQtMC42NywxLjYtMS42LDEuNmMtMC44NywwLTEuNi0wLjY2LTEuNi0xLjZWMTIuMDJ6Ii8+JiN4YTsJCTwvZz4mI3hhOwkJPGcgaWQ9InNoYXBlMjg5LTEwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLjY2NzYsLTIuNjM1MikiPiYjeGE7CQkJPHRpdGxlIGlkPSJ0aXRsZTExMzI1OSI+U2hlZXQuMjg5PC90aXRsZT4mI3hhOwkJCSYjeGE7CQkJCTxwYXRoIGlkPSJwYXRoMTEzMjYxIiBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojNTk1OTU5O3N0cm9rZS13aWR0aDowLjYxMjQ7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjM7IiBkPSIgICAgIE0wLDE2LjI2VjUuOThjMC0yLDIuNjctMy45NCw1LjItMi42bDE5Ljc0LDYuMDdjMi45NCwxLjA3LDQuMDcsMi43NCwzLjg3LDQuNDFjMCw0LjI3LTAuMTMsMTAuNDEsMCwxMi44OCAgICAgYzAuMTMsMi40LTEuMiw0LjY3LTMuOCwzLjgxbC0yLjY3LTEuNTQiLz4mI3hhOwkJPC9nPiYjeGE7CTwvZz4mI3hhOzwvZz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="1">
-          <mxGeometry x="600" y="698.5" width="32" height="31" as="geometry" />
+          <mxGeometry x="618" y="612" width="32" height="31" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.078;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WbLmQY_nLliK70Zq7kBJ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -82,23 +82,20 @@
             <mxPoint x="340" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WbLmQY_nLliK70Zq7kBJ-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WbLmQY_nLliK70Zq7kBJ-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.078;exitY=0.481;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="WbLmQY_nLliK70Zq7kBJ-48" target="WbLmQY_nLliK70Zq7kBJ-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="710" as="sourcePoint" />
+            <mxPoint x="540" y="720" as="sourcePoint" />
             <mxPoint x="590" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-12" value="Databricks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="334" y="752" width="60" height="30" as="geometry" />
+          <mxGeometry x="367.2" y="654" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-13" value="Datalake Gen2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="452" y="492" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WbLmQY_nLliK70Zq7kBJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WbLmQY_nLliK70Zq7kBJ-15" target="WbLmQY_nLliK70Zq7kBJ-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-15" value="Power BI&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="722" width="60" height="30" as="geometry" />
+          <mxGeometry x="604" y="643" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-16" value="Azure Data FActory" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="511" width="60" height="30" as="geometry" />
@@ -110,7 +107,7 @@
           <mxGeometry x="40" y="496.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-19" value="Datastreams" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="555" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="590" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-23" value="Automate Finacial Reporting and Recociliation" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1004.5" y="190" width="620" height="40" as="geometry" />
@@ -147,7 +144,7 @@
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="680" as="sourcePoint" />
+            <mxPoint x="630" y="610" as="sourcePoint" />
             <mxPoint x="680" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -159,30 +156,42 @@
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="870" as="sourcePoint" />
-            <mxPoint x="350" y="790" as="targetPoint" />
+            <mxPoint x="400" y="800" as="sourcePoint" />
+            <mxPoint x="470" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-40" value="Machine Learning Model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="960" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="893" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.652;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yIlqXNv4PA9Dnh1hxRCn-108" target="yIlqXNv4PA9Dnh1hxRCn-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-42" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
-          <mxGeometry x="316" y="880" width="78" height="78" as="geometry" />
+          <mxGeometry x="325" y="799.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-43" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
           <mxGeometry x="530" y="824" width="60" height="69" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="750" as="sourcePoint" />
+            <mxPoint x="510" y="720" as="sourcePoint" />
             <mxPoint x="520" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-46" value="Azure Synapse Analytics" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="512" y="939.5" width="78" height="30" as="geometry" />
+          <mxGeometry x="514" y="893" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WbLmQY_nLliK70Zq7kBJ-48" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Lake_Storage_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="653" width="64" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="WbLmQY_nLliK70Zq7kBJ-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="680" as="sourcePoint" />
+            <mxPoint x="474" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
