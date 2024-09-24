@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,28 +19,22 @@
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-98" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="981.5" y="356.5" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-99" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="612" width="449" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-100" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-100" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="981.5" y="426.5" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-101" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1031.5" y="549" width="449" height="72" as="geometry" />
+        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-101" value="Databricks schedules automated reconciliation tasks" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="560" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-102" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-102" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="981.5" y="496.5" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-103" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="626.5" width="449" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-104" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-104" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="981.5" y="566.5" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-105" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1016" y="731" width="449" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-106" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-106" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="981.5" y="636.5" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-107" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
@@ -110,7 +104,7 @@
           <mxGeometry x="40" y="590" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-23" value="Automate Finacial Reporting and Recociliation" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1004.5" y="190" width="620" height="40" as="geometry" />
+          <mxGeometry x="860" y="190" width="764.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/StorSimple_Data_Managers.svg;" vertex="1" parent="1">
           <mxGeometry x="190" y="585" width="48" height="64" as="geometry" />
@@ -134,10 +128,10 @@
           <mxGeometry x="360" y="536.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-30" value="Simple Storage Data Managers for structured storage" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="284.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="1080" y="284.5" width="260" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-31" value="Azure Data Factory for&amp;nbsp; real time data ingestion" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="356.5" width="330" height="53.5" as="geometry" />
+          <mxGeometry x="1050" y="356.5" width="350" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-32" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.approver;" vertex="1" parent="1">
           <mxGeometry x="690" y="410" width="59" height="55" as="geometry" />
@@ -147,9 +141,6 @@
             <mxPoint x="630" y="610" as="sourcePoint" />
             <mxPoint x="680" y="480" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WbLmQY_nLliK70Zq7kBJ-36" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbLmQY_nLliK70Zq7kBJ-38" value="Users" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="689" y="470" width="60" height="30" as="geometry" />
@@ -192,6 +183,12 @@
               <mxPoint x="414" y="680" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WbLmQY_nLliK70Zq7kBJ-52" value="Pyspark processes reconciliation rules across datasets" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="420" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WbLmQY_nLliK70Zq7kBJ-53" value="Data is written back to Deltalake tables" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="481" width="270" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
